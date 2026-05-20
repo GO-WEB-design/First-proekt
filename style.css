@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    justify-content: center;
+}
+.black {
+    background-color: black;}
+.red {
+    background-color: red;}
+.green {
+    background-color:green;}
+.blue {
+    background-color:blue;}
+.row div{
+    width: 100px;
+    height: 100px;
+    margin: 10px;}
